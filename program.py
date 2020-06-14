@@ -10,8 +10,8 @@ from Crypto.Cipher import AES
 from Crypto.Random import random
 from Crypto.Util.number import long_to_bytes
 
-__author__ = 'Dirk Moors'
-__copyright__ = 'Copyright 2014, Dirk Moors'
+__author__ = 'strongpapazola'
+__copyright__ = 'Copyright 2020, strongpapazola'
 __version__ = "1.0.0"
 __status__ = "Production"
 
